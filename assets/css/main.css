@@ -975,7 +975,7 @@ section {
 # Call To Action Section
 --------------------------------------------------------------*/
 #video-blog {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url('../imgs/OurProjects/InteKitchen.jpg') center center;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url('./imgs/OurProjects/InteKitchen.jpg') center center;
   background-size: cover;
   border-radius: 15px;
   overflow: hidden;
