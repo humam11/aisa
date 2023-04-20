@@ -101,7 +101,7 @@ section {
 }
 
 
-.section-header-blog h2:after, h1::after {
+.section-header-blog h2:after {
   content: "";
   position: absolute;
   display: block;
