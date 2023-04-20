@@ -116,7 +116,7 @@ section {
   margin: auto;
 }
 
-.section-header h2:after {
+.section-header h2::after {
   content: "";
   position: absolute;
   display: block;
