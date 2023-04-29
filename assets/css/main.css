@@ -68,7 +68,7 @@ section {
   padding-bottom: 60px;
 }
 
-#services .section-header {
+#events .section-header {
   text-align: center;
   padding-bottom: 30px;
 }
@@ -1097,27 +1097,27 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Our Services Section
+# Our Events Section
 --------------------------------------------------------------*/
-.services {
+.events {
   padding: 60px 0;
 }
 
-.services .service-item {
+.events .service-item {
   padding: 40px;
   background: #fff;
   height: 100%;
   border-radius: 10px;
 }
 
-.services .service-item .icon {
+.events .service-item .icon {
   width: 48px;
   height: 48px;
   position: relative;
   margin-bottom: 50px;
 }
 
-.services .service-item .icon i {
+.events .service-item .icon i {
   color: var(--color-default);
   font-size: 56px;
   transition: ease-in-out 0.3s;
@@ -1125,7 +1125,7 @@ section {
   position: relative;
 }
 
-.services .service-item .icon:before {
+.events .service-item .icon:before {
   position: absolute;
   content: "";
   height: 100%;
@@ -1138,7 +1138,7 @@ section {
   transition: 0.3s;
 }
 
-.services .service-item h3 {
+.events .service-item h3 {
   color: var(--color-default);
   font-weight: 700;
   margin: 0 0 20px 0;
@@ -1150,23 +1150,23 @@ section {
   transition: 0.3s;
 }
 
-.services .service-item p {
+.events .service-item p {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
 }
 
-.services .service-item .readmore {
+.events .service-item .readmore {
   margin-top: 15px;
   display: inline-block;
   color: var(--color-primary);
 }
 
-.services .service-item:hover .icon:before {
+.events .service-item:hover .icon:before {
   background: #00b6a1;
 }
 
-.services .service-item:hover h3 {
+.events .service-item:hover h3 {
   border-color: var(--color-primary);
 }
 
