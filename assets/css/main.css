@@ -68,7 +68,7 @@ section {
   padding-bottom: 60px;
 }
 
-#events .section-header {
+#projects .section-header {
   text-align: center;
   padding-bottom: 30px;
 }
@@ -1097,27 +1097,27 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Our Events Section
+# Our Projects Section
 --------------------------------------------------------------*/
-.events {
+.projects {
   padding: 60px 0;
 }
 
-.events .service-item {
+.projects .service-item {
   padding: 40px;
   background: #fff;
   height: 100%;
   border-radius: 10px;
 }
 
-.events .service-item .icon {
+.projects .service-item .icon {
   width: 48px;
   height: 48px;
   position: relative;
   margin-bottom: 50px;
 }
 
-.events .service-item .icon i {
+.projects .service-item .icon i {
   color: var(--color-default);
   font-size: 56px;
   transition: ease-in-out 0.3s;
@@ -1125,7 +1125,7 @@ section {
   position: relative;
 }
 
-.events .service-item .icon:before {
+.projects .service-item .icon:before {
   position: absolute;
   content: "";
   height: 100%;
@@ -1138,7 +1138,7 @@ section {
   transition: 0.3s;
 }
 
-.events .service-item h3 {
+.projects .service-item h3 {
   color: var(--color-default);
   font-weight: 700;
   margin: 0 0 20px 0;
@@ -1150,23 +1150,23 @@ section {
   transition: 0.3s;
 }
 
-.events .service-item p {
+.projects .service-item p {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
 }
 
-.events .service-item .readmore {
+.projects .service-item .readmore {
   margin-top: 15px;
   display: inline-block;
   color: var(--color-primary);
 }
 
-.events .service-item:hover .icon:before {
+.projects .service-item:hover .icon:before {
   background: #00b6a1;
 }
 
-.events .service-item:hover h3 {
+.projects .service-item:hover h3 {
   border-color: var(--color-primary);
 }
 
