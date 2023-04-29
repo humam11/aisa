@@ -68,7 +68,7 @@ section {
   padding-bottom: 60px;
 }
 
-#projects .section-header {
+#services .section-header {
   text-align: center;
   padding-bottom: 30px;
 }
@@ -1097,27 +1097,27 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Our Projects Section
+# Our Services Section
 --------------------------------------------------------------*/
-.projects {
+.services {
   padding: 60px 0;
 }
 
-.projects .service-item {
+.services .service-item {
   padding: 40px;
   background: #fff;
   height: 100%;
   border-radius: 10px;
 }
 
-.projects .service-item .icon {
+.services .service-item .icon {
   width: 48px;
   height: 48px;
   position: relative;
   margin-bottom: 50px;
 }
 
-.projects .service-item .icon i {
+.services .service-item .icon i {
   color: var(--color-default);
   font-size: 56px;
   transition: ease-in-out 0.3s;
@@ -1125,7 +1125,7 @@ section {
   position: relative;
 }
 
-.projects .service-item .icon:before {
+.services .service-item .icon:before {
   position: absolute;
   content: "";
   height: 100%;
@@ -1138,7 +1138,7 @@ section {
   transition: 0.3s;
 }
 
-.projects .service-item h3 {
+.services .service-item h3 {
   color: var(--color-default);
   font-weight: 700;
   margin: 0 0 20px 0;
@@ -1150,23 +1150,23 @@ section {
   transition: 0.3s;
 }
 
-.projects .service-item p {
+.services .service-item p {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
 }
 
-.projects .service-item .readmore {
+.services .service-item .readmore {
   margin-top: 15px;
   display: inline-block;
   color: var(--color-primary);
 }
 
-.projects .service-item:hover .icon:before {
+.services .service-item:hover .icon:before {
   background: #00b6a1;
 }
 
-.projects .service-item:hover h3 {
+.services .service-item:hover h3 {
   border-color: var(--color-primary);
 }
 
