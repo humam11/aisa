@@ -488,6 +488,8 @@ class Translate {
       document.getElementById("sportSkatingTitle").innerHTML = "Катание на сноуборде";
      // document.getElementById("sportSkatingParagraph").innerHTML = "Заместитель по партнерам";
 
+     document.getElementById("sportSwimTitle").innerHTML = "Плавание";
+
       document.getElementById("sportVolleyballTitle").innerHTML = "Чемпионат по волейболу";
      // document.getElementById("sportVolleyballParagraph").innerHTML = "Заместитель по партнерам";
 
@@ -514,17 +516,17 @@ class Translate {
       
       //item1
       document.getElementById("recent1itemCategory").innerHTML = "Спорт";
-      document.getElementById("recent1itemTitle").innerHTML = "Чемпионат по баскетболу";
-      document.getElementById("recent1itemDate").innerHTML = "17 февраля в 17:00";
+      document.getElementById("recent1itemTitle").innerHTML = "Чемпионат по мини-футболу";
+      document.getElementById("recent1itemDate").innerHTML = "10 май в 12:00";
       document.getElementById("days1item").innerHTML = "ДНЕЙ";
       document.getElementById("hours1item").innerHTML = "ЧАС.";
       document.getElementById("mins1item").innerHTML = "МИН.";
       document.getElementById("secs1item").innerHTML = "СЕК.";
 
       //item2
-      document.getElementById("recent2itemCategory").innerHTML = "Праздники";
-      document.getElementById("recent2itemTitle").innerHTML = "Навруз";
-      document.getElementById("recent2itemDate").innerHTML = "12 марта в 10:00";
+      document.getElementById("recent2itemCategory").innerHTML = "Спорт";
+      document.getElementById("recent2itemTitle").innerHTML = "Плавание";
+      document.getElementById("recent2itemDate").innerHTML = "20 май в 15:00";
       document.getElementById("days2item").innerHTML = "ДНЕЙ";
       document.getElementById("hours2item").innerHTML = "ЧАС.";
       document.getElementById("mins2item").innerHTML = "МИН.";
