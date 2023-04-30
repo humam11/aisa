@@ -686,6 +686,10 @@ class Translate {
       document.getElementById("sportSkatingTitle").innerHTML = "Ice Skating";
      // document.getElementById("sportSkatingParagraph").innerHTML = "Заместитель по партнерам";
 
+
+     document.getElementById("sportSwimTitle").innerHTML = "Swim";
+
+
       document.getElementById("sportVolleyballTitle").innerHTML = "Volleyball Championship";
      // document.getElementById("sportVolleyballParagraph").innerHTML = "Заместитель по партнерам";
 
@@ -713,7 +717,7 @@ class Translate {
       //item1
       document.getElementById("recent1itemCategory").innerHTML = "Sport";
       document.getElementById("recent1itemTitle").innerHTML = "Basketball Tournament";
-      document.getElementById("recent1itemDate").innerHTML = "Feburary 17 at 17:00";
+      document.getElementById("recent1itemDate").innerHTML = "May 10 at 12:00";
       document.getElementById("days1item").innerHTML = "DAYS";
       document.getElementById("hours1item").innerHTML = "HOURS";
       document.getElementById("mins1item").innerHTML = "MINS";
@@ -722,21 +726,23 @@ class Translate {
       //item2
       document.getElementById("recent2itemCategory").innerHTML = "Holidays";
       document.getElementById("recent2itemTitle").innerHTML = "Nowruz";
-      document.getElementById("recent2itemDate").innerHTML = "March 12 at 10:00";
+      document.getElementById("recent2itemDate").innerHTML = "May 20 at 15:00";
       document.getElementById("days2item").innerHTML = "DAYS";
       document.getElementById("hours2item").innerHTML = "HOURS";
       document.getElementById("mins2item").innerHTML = "MINS";
       document.getElementById("secs2item").innerHTML = "SECS";
 
       //item3
+      /*
       document.getElementById("recent3itemCategory").innerHTML = "Culture";
       document.getElementById("recent3itemTitle").innerHTML = "African Day";
       document.getElementById("recent3itemDate").innerHTML = "March 20 at 13:00";
+      */
       document.getElementById("days3item").innerHTML = "DAYS";
       document.getElementById("hours3item").innerHTML = "HOURS";
       document.getElementById("mins3item").innerHTML = "MINS";
       document.getElementById("secs3item").innerHTML = "SECS";
-
+      
 
       //footer
       document.getElementById("footerTitle").innerHTML = "AISA";
