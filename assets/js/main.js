@@ -533,9 +533,12 @@ class Translate {
       document.getElementById("secs2item").innerHTML = "СЕК.";
 
       //item3
+
+      /*
       document.getElementById("recent3itemCategory").innerHTML = "Культура";
       document.getElementById("recent3itemTitle").innerHTML = "День Африканской культуры";
       document.getElementById("recent3itemDate").innerHTML = "20 марта в 13:00";
+      */
       document.getElementById("days3item").innerHTML = "ДНЕЙ";
       document.getElementById("hours3item").innerHTML = "ЧАС.";
       document.getElementById("mins3item").innerHTML = "МИН.";
