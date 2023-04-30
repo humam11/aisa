@@ -716,7 +716,7 @@ class Translate {
       
       //item1
       document.getElementById("recent1itemCategory").innerHTML = "Sport";
-      document.getElementById("recent1itemTitle").innerHTML = "Basketball Tournament";
+      document.getElementById("recent1itemTitle").innerHTML = "Futsal Championship";
       document.getElementById("recent1itemDate").innerHTML = "May 10 at 12:00";
       document.getElementById("days1item").innerHTML = "DAYS";
       document.getElementById("hours1item").innerHTML = "HOURS";
@@ -724,8 +724,8 @@ class Translate {
       document.getElementById("secs1item").innerHTML = "SECS";
 
       //item2
-      document.getElementById("recent2itemCategory").innerHTML = "Holidays";
-      document.getElementById("recent2itemTitle").innerHTML = "Nowruz";
+      document.getElementById("recent2itemCategory").innerHTML = "Sport";
+      document.getElementById("recent2itemTitle").innerHTML = "Swim";
       document.getElementById("recent2itemDate").innerHTML = "May 20 at 15:00";
       document.getElementById("days2item").innerHTML = "DAYS";
       document.getElementById("hours2item").innerHTML = "HOURS";
