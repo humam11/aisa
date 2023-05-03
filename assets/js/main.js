@@ -451,6 +451,9 @@ class Translate {
       document.getElementById("teamItem4Title").innerHTML = "Ахмед Ваад";
       document.getElementById("teamItem4Special").innerHTML = "Заместитель по партнерам";
 
+      document.getElementById("teamItem5Title").innerHTML = "Увинду Виджевира";
+      document.getElementById("teamItem5Special").innerHTML = "Заместитель по работе с выпускниками";
+
 
       //Asked Question
       document.getElementById("titleAsked").innerHTML = "Часто задаваемые <strong>Вопросы</strong>";
@@ -654,6 +657,9 @@ class Translate {
       document.getElementById("teamItem4Title").innerHTML = "Ahmed Waad";
       document.getElementById("teamItem4Special").innerHTML = "Deputy for Partners";
 
+      document.getElementById("teamItem5Title").innerHTML = "Uvindu Ayas";
+      document.getElementById("teamItem5Special").innerHTML = "Deputy for work with Graduates";
+
 
       //Asked Question
       document.getElementById("titleAsked").innerHTML = "Frequently Asked <strong>Questions</strong>";
@@ -722,7 +728,7 @@ class Translate {
       //item1
       document.getElementById("recent1itemCategory").innerHTML = "Sport";
       document.getElementById("recent1itemTitle").innerHTML = "Futsal Championship";
-      document.getElementById("recent1itemDate").innerHTML = "May 10 at 12:00";
+      document.getElementById("recent1itemDate").innerHTML = "May 20 at 12:00";
       document.getElementById("days1item").innerHTML = "DAYS";
       document.getElementById("hours1item").innerHTML = "HOURS";
       document.getElementById("mins1item").innerHTML = "MINS";
@@ -731,7 +737,7 @@ class Translate {
       //item2
       document.getElementById("recent2itemCategory").innerHTML = "Sport";
       document.getElementById("recent2itemTitle").innerHTML = "Swim";
-      document.getElementById("recent2itemDate").innerHTML = "May 20 at 15:00";
+      document.getElementById("recent2itemDate").innerHTML = "May 25 at 15:00";
       document.getElementById("days2item").innerHTML = "DAYS";
       document.getElementById("hours2item").innerHTML = "HOURS";
       document.getElementById("mins2item").innerHTML = "MINS";
