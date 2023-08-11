@@ -365,7 +365,7 @@ class Translate {
       document.title = "АИС";
       //nav
       document.getElementById("homeNav").innerHTML = "Главная";
-      document.getElementById("aboutNav").innerHTML = "О Нас";
+      document.getElementById("aboutNav").innerHTML = "О нас";
       document.getElementById("projectsNav").innerHTML = "Проекты";
       document.getElementById("teamNav").innerHTML = "Команда";
       document.getElementById("eventsNav").innerHTML = "Мероприятия";
@@ -380,23 +380,23 @@ class Translate {
 
 
       //about us
-      document.getElementById("titleAboutTrans").innerHTML = "О Нас";
-      document.getElementById("paragraphAboutTrans").innerHTML = "“Разнообразие наша сила, богатство и красота!”";
+      document.getElementById("titleAboutTrans").innerHTML = "О нас";
+      document.getElementById("paragraphAboutTrans").innerHTML = "«Разнообразие - наша сила, богатство и красота!»";
 
       document.getElementById("paragraphAboutTitleTrans").innerHTML = "Ассоциация иностранных студентов и выпускников ведет свою деятельность с 2013 года в г. Челябинске.";
-      document.getElementById("aboutp1").innerHTML = "Это объединение иностранных обучающихся, основными задачами которого является помощь иностранным студентам в адаптации, в решении проблем и вопросов, связанных с обучением, проживанием и досугом, знакомство с особенностями русской культуры, развитие международной дружбы, содействие процессу продвижения русского языка и культуры.";
+      document.getElementById("aboutp1").innerHTML = "Это объединение иностранных обучающихся, основными задачами которого является решение проблем и вопросов, связанных с обучением, проживанием и досугом; знакомство с особенностями русской культуры; развитие международной дружбы; содействие процессу продвижения русского языка и культуры.";
       document.getElementById("aboutp2").innerHTML = "На данный момент Ассоциация объединяет <strong>более 1000 человек</strong>, а актив включает в себя <strong>представителей</strong> более 30 стран и регионов, каждый из которых представляет интересы своих студентов. Также имеется команда <strong>волонтеров</strong>, которые оказывают всевозможную помощь при организации деятельности.";
       document.getElementById("aboutGoals").innerHTML = "Ассоциация иностранных студентов и выпускников - общероссийская студенческая организация, основными целями которой являются:";
-      document.getElementById("aboutGoals1").innerHTML = '<i class="bi bi-check-circle-fill"></i> чтобы помочь в адаптации к новым студентам,';
-      document.getElementById("aboutGoals2").innerHTML = '<i class="bi bi-check-circle-fill"></i> познакомить их с особенностями русской культуры,';
-      document.getElementById("aboutGoals3").innerHTML = '<i class="bi bi-check-circle-fill"></i> чтобы актуализировать международных друзей.';
-      document.getElementById("aboutEnd").innerHTML = "В настоящее время мы являемся <strong>Южно-Уральская ассоциация иностранных студентов и выпускников!</strong>";
+      document.getElementById("aboutGoals1").innerHTML = '<i class="bi bi-check-circle-fill"></i> Помощь в адаптации к новым студентам;';
+      document.getElementById("aboutGoals2").innerHTML = '<i class="bi bi-check-circle-fill"></i> Знакомство с особенностями русской культуры;';
+      document.getElementById("aboutGoals3").innerHTML = '<i class="bi bi-check-circle-fill"></i> Актуализация международных друзей;';
+      document.getElementById("aboutEnd").innerHTML = "В настоящее время мы являемся <strong>Южно-Уральской ассоциацией иностранных студентов и выпускников!";
 
 
       //stats
-      document.getElementById("stats1item").innerHTML = "<strong>Участники</strong> кто заинтересован в нашей деятельности";
-      document.getElementById("stats2item").innerHTML = "<strong>Волонтеры</strong> протянуть руку помощи";
-      document.getElementById("stats3item").innerHTML = "<strong>Мероприятия</strong> из разных культур мира";
+      document.getElementById("stats1item").innerHTML = "<strong>Участников,</strong> заинтересованных в нашей деятельности;";
+      document.getElementById("stats2item").innerHTML = "<strong>Волонтёров,</strong> протянувшие руку помощи;";
+      document.getElementById("stats3item").innerHTML = "<strong>Мероприятий,</strong> было проведено из разных культур мира;";
 
       //partners
       document.getElementById("partnerTitle").innerHTML = "Партнеры";
@@ -404,7 +404,7 @@ class Translate {
 
       //Projects
 
-      document.getElementById("ourProjectTitle").innerHTML = "Наши Проекты";
+      document.getElementById("ourProjectTitle").innerHTML = "Наши проекты";
       document.getElementById("ourProjectTitleParagraph").innerHTML = "Мы открыты для всех идей и предложений Давайте работать вместе, чтобы изменить окружающую среду к лучшему!";
 
 
@@ -422,11 +422,11 @@ class Translate {
       document.getElementById("readmoreID3").innerHTML = 'Подробнее <i class="bi bi-arrow-right"></i>';
 
       document.getElementById("project4item").innerHTML = "Международная коммуникация";
-      document.getElementById("project4itemPr").innerHTML = "Где кухня становится порталом к национальным культурам.";
+      document.getElementById("project4itemPr").innerHTML = "Здесь кухня становится порталом к национальным культурам.";
       document.getElementById("readmoreID4").innerHTML = 'Подробнее <i class="bi bi-arrow-right"></i>';
 
       document.getElementById("project5item").innerHTML = 'Гастрономический марафон "Международная кухня"';
-      document.getElementById("project5itemPr").innerHTML = "Создать пространство для межэтнического диалога с помощью кулинарных мастер-классов народов России и мира.";
+      document.getElementById("project5itemPr").innerHTML = "Мы поможем создать пространство для межэтнического диалога с помощью кулинарных мастер-классов народов России и мира.";
       document.getElementById("readmoreID5").innerHTML = 'Подробнее <i class="bi bi-arrow-right"></i>';
 
       document.getElementById("project6item").innerHTML = "Английский разговорный клуб";
@@ -435,7 +435,7 @@ class Translate {
 
 
       //our team
-      document.getElementById("teamTitle").innerHTML = "Наша Команда";
+      document.getElementById("teamTitle").innerHTML = "Наша команда";
       //document.getElementById("teamPr").innerHTML = "**************";
 
 
@@ -456,18 +456,18 @@ class Translate {
 
 
       //Asked Question
-      document.getElementById("titleAsked").innerHTML = "Часто задаваемые <strong>Вопросы</strong>";
-      document.getElementById("paragraphAsked").innerHTML = "Мы постарались собрать все часто задаваемые вопросы к сообществу";
+      document.getElementById("titleAsked").innerHTML = "Часто задаваемые <strong>вопросы</strong>";
+      document.getElementById("paragraphAsked").innerHTML = "Мы постарались собрать все часто задаваемые вопросы в нашем сообществе";
        document.getElementById("firstQus").innerHTML = '<span class="num">1.</span>Как вступить в Ассоциацию и принять участие в мероприятиях?';
       document.getElementById("answerQusFirst").innerHTML = 'Очень просто! Подпишись на группу в социальной сети Вконтакте <a href="https://vk.com/aisa_southural">vk.com/aisa_southural</a> - здесь публикуем все актуальные события. Наши мероприятия открыты для посещения любого желающего! Также можешь войти в число волонтеров, написав руководителю <a href="https://vk.com/zufarjonovnad">vk.com/zufarjonovnad</a>. Волонтеры непосредственно принимают участие в организации мероприятий или сами реализуют свои идеи, а мы помогаем!';
       document.getElementById("secondQus").innerHTML = '<span class="num">2.</span>Мой друг хочет учиться в университете. Как поступить?';
-      document.getElementById("answerQusSecond").innerHTML = 'В каждом университете есть международный отдел, куда можно обратиться по этому вопросу. Например, для поступления в ЮУрГУ нужно написать на почту <a href="mailto:applicant@susu.ru">applicant@susu.ru</a>';
+      document.getElementById("answerQusSecond").innerHTML = 'В каждом университете есть международный отдел, куда можно обратиться по этому вопросу. Например, для поступления в ЮУрГУ нужно написать на почту <a href="mailto:applicant@susu.ru">applicant@susu.ru</a>.';
       document.getElementById("thirdQus").innerHTML = '<span class="num">3.</span>Обязательно ли проходить медицинские обследования?';
-      document.getElementById("answerQusThird").innerHTML = 'Да. Всем иностранным гражданам обязательно нужно иметь медицинскую страховку, проходить процедуры медицинского освидетельствования и дактилоскопии. Это требования не университетов, а законодательства России. Предупреждаем, что могут быть применены следующие санкции: административный штраф, сокращение срока пребывания (визы, регистрации)';
+      document.getElementById("answerQusThird").innerHTML = 'Да. Всем иностранным гражданам обязательно нужно иметь медицинскую страховку, проходить процедуры медицинского освидетельствования и дактилоскопии. Это требования не университетов, а законодательства России. Предупреждаем, что могут быть применены следующие санкции: административный штраф, сокращение срока пребывания (визы, регистрации).';
 
 
       //Events
-      document.getElementById("eventTitle").innerHTML = "Наши Мероприятия";
+      document.getElementById("eventTitle").innerHTML = "Наши мероприятия";
       document.getElementById("eventParagrph").innerHTML = "Самые популярные мероприятия, которые мы проводим круглый год";
 
       document.getElementById("allItems").innerHTML = "Все";
@@ -514,7 +514,7 @@ class Translate {
 
       //recent
 
-      document.getElementById("recentTitle").innerHTML = "Ближайшие Мероприятия";
+      document.getElementById("recentTitle").innerHTML = "Ближайшие мероприятия";
           
       
       //item1
@@ -555,7 +555,7 @@ class Translate {
       document.getElementById("coulmnFooter1").innerHTML = "Полезные ссылки";
       
       document.getElementById("homeFooter").innerHTML = "Главная";
-      document.getElementById("aboutFooter").innerHTML = "О Нас";
+      document.getElementById("aboutFooter").innerHTML = "О нас";
       document.getElementById("projectsFooter").innerHTML = "Проекты";
       document.getElementById("teamFooter").innerHTML = "Команда";
 
@@ -581,28 +581,28 @@ class Translate {
       document.getElementById("welcomeHeroTrans").innerHTML = "Welcome to <span>AISA</span>";
       document.getElementById("paragraphHeroTrans").innerHTML = "We are creating a space of intercultural dialogue in our region and already unite representatives of 56 countries of the world!";
 
-      document.getElementById("button1Hero").innerHTML = "Read More";
+      document.getElementById("button1Hero").innerHTML = "Read more";
       document.getElementById("button2Hero").innerHTML = '<i class="bi bi-calendar4-event"></i><span>Upcoming Events</span>';
 
 
       //about us
-      document.getElementById("titleAboutTrans").innerHTML = "About Us";
-      document.getElementById("paragraphAboutTrans").innerHTML = "“Diversity is our strength, wealth and beauty!”";
+      document.getElementById("titleAboutTrans").innerHTML = "About us";
+      document.getElementById("paragraphAboutTrans").innerHTML = "«Diversity is our strength, wealth and beauty!»";
 
       document.getElementById("paragraphAboutTitleTrans").innerHTML = "The Association of International Students and Alumni has been operating since 2013 in Chelyabinsk.";
-      document.getElementById("aboutp1").innerHTML = "This is an association of foreign students, whose main objectives are to help foreign students in adapting, in solving problems and issues related to education, accommodation and leisure time, acquaintance with the characteristics of Russian culture, development of international friendship, assistance in the process of promotion of the Russian language and culture.";
+      document.getElementById("aboutp1").innerHTML = "This is an association of foreign students, whose main tasks are to solve problems and issues related to education, accommodation and leisure; acquaintance with the peculiarities of Russian culture; development of international friendship; assistance to the process of promoting the Russian language and culture.";
       document.getElementById("aboutp2").innerHTML = "At the moment the Association unites <strong>more than 1000 people</strong>, and its activities include representatives of <strong>more than 30 countries and regions</strong>, each of which represents the interests of their students. There is also a team of <strong>volunteers</strong> who provide all kinds of assistance in organizing activities.";
       document.getElementById("aboutGoals").innerHTML = "The Association of International Students and Alumni is an All-Russian student organisation that main goals are:";
-      document.getElementById("aboutGoals1").innerHTML = '<i class="bi bi-check-circle-fill"></i> to help in adapting to new students,</li>';
-      document.getElementById("aboutGoals2").innerHTML = '<i class="bi bi-check-circle-fill"></i> to acquaint them with the features of Russian culture,</li>';
-      document.getElementById("aboutGoals3").innerHTML = '<i class="bi bi-check-circle-fill"></i> to actualise international friends.</li>';
-      document.getElementById("aboutEnd").innerHTML = "Nowadays we are the <strong>South Ural Association of International Students and Alumni!</strong>";
+      document.getElementById("aboutGoals1").innerHTML = '<i class="bi bi-check-circle-fill"></i> Assistance in adapting to new students,</li>';
+      document.getElementById("aboutGoals2").innerHTML = '<i class="bi bi-check-circle-fill"></i> Acquaintance with the peculiarities of Russian culture,</li>';
+      document.getElementById("aboutGoals3").innerHTML = '<i class="bi bi-check-circle-fill"></i> Actualization of international friends.</li>';
+      document.getElementById("aboutEnd").innerHTML = "Currently, we are the <strong>South Ural Association of Foreign Students and Alumni!</strong>";
 
 
       //stats
-      document.getElementById("stats1item").innerHTML = "<strong>Members</strong> who interested in our activities";
-      document.getElementById("stats2item").innerHTML = "<strong>Volunteers</strong> to lend a helping hand";
-      document.getElementById("stats3item").innerHTML = "<strong>Events</strong> from different cultures of the world";
+      document.getElementById("stats1item").innerHTML = "<strong>Participants,</strong> interested in our activities,";
+      document.getElementById("stats2item").innerHTML = "<strong>Volunteers,</strong> who lend a helping hand,";
+      document.getElementById("stats3item").innerHTML = "<strong>Events,</strong> from different cultures of the world.";
 
       //partners
       document.getElementById("partnerTitle").innerHTML = "Partners";
@@ -610,8 +610,8 @@ class Translate {
 
       //Projects
 
-      document.getElementById("ourProjectTitle").innerHTML = "Our Projects";
-      document.getElementById("ourProjectTitleParagraph").innerHTML = "We are open to all ideas and suggestions Let's work together to change the environment for the better!";
+      document.getElementById("ourProjectTitle").innerHTML = "Our projects";
+      document.getElementById("ourProjectTitleParagraph").innerHTML = "We are open to all ideas and suggestions. Let's work together to change the environment for the better!";
 
 
       
@@ -628,11 +628,11 @@ class Translate {
       document.getElementById("readmoreID3").innerHTML = 'Read more <i class="bi bi-arrow-right"></i>';
 
       document.getElementById("project4item").innerHTML = "International communication";
-      document.getElementById("project4itemPr").innerHTML = "Where cuisine becomes a portal to national cultures.";
+      document.getElementById("project4itemPr").innerHTML = "Here the cuisine becomes a portal to national cultures.";
       document.getElementById("readmoreID4").innerHTML = 'Read more <i class="bi bi-arrow-right"></i>';
 
       document.getElementById("project5item").innerHTML = 'Gastronomic marathon "International Cuisine"';
-      document.getElementById("project5itemPr").innerHTML = "To create a space for inter-ethnic dialogue, with the help of culinary master classes of the peoples of Russia and the world.";
+      document.getElementById("project5itemPr").innerHTML = "We help create a space for interethnic dialogue with the help of culinary master classes of the peoples of Russia and the world.";
       document.getElementById("readmoreID5").innerHTML = 'Read more <i class="bi bi-arrow-right"></i>';
 
       document.getElementById("project6item").innerHTML = "English speaking club";
@@ -641,7 +641,7 @@ class Translate {
 
 
       //our team
-      document.getElementById("teamTitle").innerHTML = "Our Team";
+      document.getElementById("teamTitle").innerHTML = "Our team";
       //document.getElementById("teamPr").innerHTML = "**************";
 
 
@@ -662,18 +662,18 @@ class Translate {
 
 
       //Asked Question
-      document.getElementById("titleAsked").innerHTML = "Frequently Asked <strong>Questions</strong>";
+      document.getElementById("titleAsked").innerHTML = "Frequently Asked <strong>questions</strong>";
       document.getElementById("paragraphAsked").innerHTML = "We tried to collect all frequently asked questions to the community";
        document.getElementById("firstQus").innerHTML = '<span class="num">1.</span> How to join the Association and take part in events?';
       document.getElementById("answerQusFirst").innerHTML = 'Very simple! Subscribe to the group on the social network Vkontakte <a href="https://vk.com/aisa_southural">vk.com/aisa_southural</a> - here we publish all current events. Our events are open to everyone! You can also become a volunteer by writing to the manager <a href="https://vk.com/zufarjonovnad">vk.com/zufarjonovnad</a>. Volunteers are directly involved in organizing events or implement their ideas themselves, and we help!';
       document.getElementById("secondQus").innerHTML = ' <span class="num">2.</span> My friend wants to study at the university. How to proceed?';
-      document.getElementById("answerQusSecond").innerHTML = 'Each university has an international department where you can contact on this issue. For example, to enter SUSU, you need to write to <a href="mailto:applicant@susu.ru">applicant@susu.ru</a>';
+      document.getElementById("answerQusSecond").innerHTML = 'Each university has an international department where you can contact on this issue. For example, to enter SUSU, you need to write to <a href="mailto:applicant@susu.ru">applicant@susu.ru</a>.';
       document.getElementById("thirdQus").innerHTML = ' <span class="num">3.</span> Is it necessary to undergo medical examinations?';
-      document.getElementById("answerQusThird").innerHTML = 'Yes. All foreign citizens must have medical insurance, undergo medical examination and fingerprinting procedures. These are the requirements not of universities, but of Russian legislation. We warn you that the following sanctions may be applied: an administrative fine, a reduction in the period of stay (visas, registration)';
+      document.getElementById("answerQusThird").innerHTML = 'Yes. All foreign citizens must have medical insurance, undergo medical examination and fingerprinting procedures. These are the requirements not of universities, but of Russian legislation. We warn you that the following sanctions may be applied: an administrative fine, a reduction in the period of stay (visas, registration).';
 
 
       //Events
-      document.getElementById("eventTitle").innerHTML = "Our Events";
+      document.getElementById("eventTitle").innerHTML = "Our events";
       document.getElementById("eventParagrph").innerHTML = "The most popular events we offer all year round";
 
       document.getElementById("allItems").innerHTML = "All";
@@ -722,7 +722,7 @@ class Translate {
 
       //recent
 
-      document.getElementById("recentTitle").innerHTML = "Upcoming Events";
+      document.getElementById("recentTitle").innerHTML = "Upcoming events";
           
       
       //item1
