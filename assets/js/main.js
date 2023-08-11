@@ -1,12 +1,3 @@
-/**
-* Template Name: Impact - v1.2.0
-* Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-
-
 
 document.addEventListener('DOMContentLoaded', () => {
   "use strict";
@@ -411,27 +402,27 @@ class Translate {
       
       document.getElementById("project1item").innerHTML = "Правовая грамотность иностранных студентов в Челябинске";
       document.getElementById("project1itemPr").innerHTML = "Проект правовой грамотности для иностранного гражданина, направленный на улучшение знаний основных законов Российской Федерации.";
-      document.getElementById("readmoreID1").innerHTML = 'Подробнее <i class="bi bi-arrow-right"></i>';
+      document.getElementById("readmoreID1").innerHTML = 'Подробнее <i class="bi bi-arrow-up-right-square"></i>';
       
       document.getElementById("project2item").innerHTML = "Тьютор для иностранных студентов";
       document.getElementById("project2itemPr").innerHTML = "Тьютор - это волонтеры, которые помогают в адаптации иностранных студентов вузов Челябинска.";
-      document.getElementById("readmoreID2").innerHTML = 'Подробнее <i class="bi bi-arrow-right"></i>';
+      document.getElementById("readmoreID2").innerHTML = 'Подробнее <i class="bi bi-arrow-up-right-square"></i>';
 
       document.getElementById("project3item").innerHTML = 'Международный форум "Россия и Иран"';
       document.getElementById("project3itemPr").innerHTML = "Форум, направленный на развитие образовательного и научного потенциала России и Ирана.";
-      document.getElementById("readmoreID3").innerHTML = 'Подробнее <i class="bi bi-arrow-right"></i>';
+      document.getElementById("readmoreID3").innerHTML = 'Подробнее <i class="bi bi-arrow-up-right-square"></i>';
 
       document.getElementById("project4item").innerHTML = "Международная коммуникация";
       document.getElementById("project4itemPr").innerHTML = "Здесь кухня становится порталом к национальным культурам.";
-      document.getElementById("readmoreID4").innerHTML = 'Подробнее <i class="bi bi-arrow-right"></i>';
+      document.getElementById("readmoreID4").innerHTML = 'Подробнее <i class="bi bi-arrow-up-right-square"></i>';
 
       document.getElementById("project5item").innerHTML = 'Гастрономический марафон "Международная кухня"';
       document.getElementById("project5itemPr").innerHTML = "Мы поможем создать пространство для межэтнического диалога с помощью кулинарных мастер-классов народов России и мира.";
-      document.getElementById("readmoreID5").innerHTML = 'Подробнее <i class="bi bi-arrow-right"></i>';
+      document.getElementById("readmoreID5").innerHTML = 'Подробнее <i class="bi bi-arrow-up-right-square"></i>';
 
       document.getElementById("project6item").innerHTML = "Английский разговорный клуб";
       document.getElementById("project6itemPr").innerHTML = "Проект способствует развитию разговорного английского языка и расширению словарного запаса студентов.";
-      document.getElementById("readmoreID6").innerHTML = 'Подробнее <i class="bi bi-arrow-right"></i>';
+      document.getElementById("readmoreID6").innerHTML = 'Подробнее <i class="bi bi-arrow-up-right-square"></i>';
 
 
       //our team
@@ -617,27 +608,27 @@ class Translate {
       
       document.getElementById("project1item").innerHTML = "The legal literacy of foreign students in Chelyabinsk";
       document.getElementById("project1itemPr").innerHTML = "Legal literacy project for a foreign citizen citizen to improving knowledge of the basic laws of the Russian Federation.";
-      document.getElementById("readmoreID1").innerHTML = 'Read more <i class="bi bi-arrow-right"></i>';
+      document.getElementById("readmoreID1").innerHTML = 'Read more <i class="bi bi-arrow-up-right-square"></i>';
       
       document.getElementById("project2item").innerHTML = "International Student Tutor";
       document.getElementById("project2itemPr").innerHTML = "Tutors are volunteers who help in the adaptation of foreign students of universities in Chelyabinsk.";
-      document.getElementById("readmoreID2").innerHTML = 'Read more <i class="bi bi-arrow-right"></i>';
+      document.getElementById("readmoreID2").innerHTML = 'Read more <i class="bi bi-arrow-up-right-square"></i>';
 
       document.getElementById("project3item").innerHTML = 'International forum "Russia and Iran"';
       document.getElementById("project3itemPr").innerHTML = "Forum aimed at developing educational and scientific potential of Russia and Iran.";
-      document.getElementById("readmoreID3").innerHTML = 'Read more <i class="bi bi-arrow-right"></i>';
+      document.getElementById("readmoreID3").innerHTML = 'Read more <i class="bi bi-arrow-up-right-square"></i>';
 
       document.getElementById("project4item").innerHTML = "International communication";
       document.getElementById("project4itemPr").innerHTML = "Here the cuisine becomes a portal to national cultures.";
-      document.getElementById("readmoreID4").innerHTML = 'Read more <i class="bi bi-arrow-right"></i>';
+      document.getElementById("readmoreID4").innerHTML = 'Read more <i class="bi bi-arrow-up-right-square"></i>';
 
       document.getElementById("project5item").innerHTML = 'Gastronomic marathon "International Cuisine"';
       document.getElementById("project5itemPr").innerHTML = "We help create a space for interethnic dialogue with the help of culinary master classes of the peoples of Russia and the world.";
-      document.getElementById("readmoreID5").innerHTML = 'Read more <i class="bi bi-arrow-right"></i>';
+      document.getElementById("readmoreID5").innerHTML = 'Read more <i class="bi bi-arrow-up-right-square"></i>';
 
       document.getElementById("project6item").innerHTML = "English speaking club";
       document.getElementById("project6itemPr").innerHTML = "The project promotes the development of spoken English and expanding the vocabulary of students.";
-      document.getElementById("readmoreID6").innerHTML = 'Read more <i class="bi bi-arrow-right"></i>';
+      document.getElementById("readmoreID6").innerHTML = 'Read more <i class="bi bi-arrow-up-right-square"></i>';
 
 
       //our team
