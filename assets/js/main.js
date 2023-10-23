@@ -511,7 +511,7 @@ class Translate {
       //item1
       document.getElementById("recent1itemCategory").innerHTML = "Спорт";
       document.getElementById("recent1itemTitle").innerHTML = "Чемпионат по мини-футболу";
-      document.getElementById("recent1itemDate").innerHTML = "10 май в 12:00";
+      document.getElementById("recent1itemDate").innerHTML = "25 ноября в 15:00";
       document.getElementById("days1item").innerHTML = "ДНЕЙ";
       document.getElementById("hours1item").innerHTML = "ЧАС.";
       document.getElementById("mins1item").innerHTML = "МИН.";
@@ -520,7 +520,7 @@ class Translate {
       //item2
       document.getElementById("recent2itemCategory").innerHTML = "Спорт";
       document.getElementById("recent2itemTitle").innerHTML = "Плавание";
-      document.getElementById("recent2itemDate").innerHTML = "20 май в 15:00";
+      document.getElementById("recent2itemDate").innerHTML = "3 декабря в 11:00";
       document.getElementById("days2item").innerHTML = "ДНЕЙ";
       document.getElementById("hours2item").innerHTML = "ЧАС.";
       document.getElementById("mins2item").innerHTML = "МИН.";
@@ -719,7 +719,7 @@ class Translate {
       //item1
       document.getElementById("recent1itemCategory").innerHTML = "Sport";
       document.getElementById("recent1itemTitle").innerHTML = "Futsal Championship";
-      document.getElementById("recent1itemDate").innerHTML = "May 20 at 12:00";
+      document.getElementById("recent1itemDate").innerHTML = "November 25 at 15:00";
       document.getElementById("days1item").innerHTML = "DAYS";
       document.getElementById("hours1item").innerHTML = "HOURS";
       document.getElementById("mins1item").innerHTML = "MINS";
@@ -728,7 +728,7 @@ class Translate {
       //item2
       document.getElementById("recent2itemCategory").innerHTML = "Sport";
       document.getElementById("recent2itemTitle").innerHTML = "Swim";
-      document.getElementById("recent2itemDate").innerHTML = "May 25 at 15:00";
+      document.getElementById("recent2itemDate").innerHTML = "December 3 в 11:00";
       document.getElementById("days2item").innerHTML = "DAYS";
       document.getElementById("hours2item").innerHTML = "HOURS";
       document.getElementById("mins2item").innerHTML = "MINS";
