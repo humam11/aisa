@@ -508,19 +508,19 @@ class Translate {
       document.getElementById("recentTitle").innerHTML = "Ближайшие мероприятия";
           
       
-      //item1
+      //item2
       document.getElementById("recent1itemCategory").innerHTML = "Спорт";
       document.getElementById("recent1itemTitle").innerHTML = "Чемпионат по мини-футболу";
-      document.getElementById("recent1itemDate").innerHTML = "25 ноября в 15:00";
+      document.getElementById("recent1itemDate").innerHTML = "3 декабря в 11:00";
       document.getElementById("days1item").innerHTML = "ДНЕЙ";
       document.getElementById("hours1item").innerHTML = "ЧАС.";
       document.getElementById("mins1item").innerHTML = "МИН.";
       document.getElementById("secs1item").innerHTML = "СЕК.";
 
-      //item2
+      //item1
       document.getElementById("recent2itemCategory").innerHTML = "Спорт";
       document.getElementById("recent2itemTitle").innerHTML = "Плавание";
-      document.getElementById("recent2itemDate").innerHTML = "3 декабря в 11:00";
+      document.getElementById("recent2itemDate").innerHTML = "25 ноября в 15:00";
       document.getElementById("days2item").innerHTML = "ДНЕЙ";
       document.getElementById("hours2item").innerHTML = "ЧАС.";
       document.getElementById("mins2item").innerHTML = "МИН.";
@@ -716,7 +716,7 @@ class Translate {
       document.getElementById("recentTitle").innerHTML = "Upcoming events";
           
       
-      //item1
+      //item2
       document.getElementById("recent1itemCategory").innerHTML = "Sport";
       document.getElementById("recent1itemTitle").innerHTML = "Futsal Championship";
       document.getElementById("recent1itemDate").innerHTML = "December 3 в 11:00";
@@ -725,7 +725,7 @@ class Translate {
       document.getElementById("mins1item").innerHTML = "MINS";
       document.getElementById("secs1item").innerHTML = "SECS";
 
-      //item2
+      //item1
       document.getElementById("recent2itemCategory").innerHTML = "Sport";
       document.getElementById("recent2itemTitle").innerHTML = "Swim";
       document.getElementById("recent2itemDate").innerHTML = "November 25 at 15:00";
